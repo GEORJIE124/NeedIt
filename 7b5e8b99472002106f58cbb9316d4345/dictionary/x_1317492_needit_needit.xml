@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="cdbe83d9472002106f58cbb9316d430b" extends="task" label="NeedIt" max_length="40" name="x_1317492_needit_needit" type="collection">
+        <element label="demo rani" max_length="100" name="demo_rani" type="field_name"/>
         <element choice="3" display="true" label="Users" max_length="100" name="usersuser_id" type="field_name">
             <choice/>
         </element>
